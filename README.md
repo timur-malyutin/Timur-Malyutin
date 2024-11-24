@@ -4,11 +4,7 @@
   <img src="https://i.imgur.com/Mjm0SlF.png" style="width: 100%; max-width: 100%; height: auto;" alt="Full-Width Image" />
 </div>
 
-###
-
 <p align="left">Frontend Engineer | 3.5+ yrs building scalable, modular, and highly performant web apps. SOLID-driven, KISS/DRY advocate. Obsessed with crafting seamless DX/UX, architecting robust solutions, and pushing the edge of modern web standards.</p>
-
-###
 
 <h3 align="left">Connect with me:</h3>
 
@@ -30,12 +26,9 @@
   </a>
 </div>
 
-###
 <h3 align="left">Techs:</h3>
 
-###
-
-<div align="left">
+<div align="left" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; justify-content: center; align-items: center;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
@@ -151,16 +144,10 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="40" alt="wordpress logo"  />
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/timur-malyutin/timur-malyutin/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timur-malyutin&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timur-malyutin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=timur-malyutin&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=timur-malyutin&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" style="width: 100%; max-width: 320px; height: auto;" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timur-malyutin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" style="width: 100%; max-width: 320px; height: auto;" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=timur-malyutin&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5&order=3" style="width: 100%; max-width: 320px; height: auto;" alt="streak graph" />
 </div>
-
-###
