@@ -4,7 +4,16 @@
   <img src="https://i.imgur.com/Mjm0SlF.png" style="width: 100%; max-width: 100%; height: auto;" alt="Full-Width Image" />
 </div>
 
-<p align="left">Frontend Engineer | 3.5+ yrs building scalable, modular, and highly performant web apps. SOLID-driven, KISS/DRY advocate. Obsessed with crafting seamless DX/UX, architecting robust solutions, and pushing the edge of modern web standards.</p>
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <p align="left" style="flex: 1; font-size: 16px; line-height: 1.5;">
+    Welcome to my GitHub profile! I'm constantly exploring new tools and frameworks to craft efficient, innovative, and user-focused applications. Feel free to explore, collaborate, or reach out — let's build something amazing together!
+  </p>
+  <img 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2QwcWZsYWZoaDlkaWM1c3F0Y2dmc2U5eDNra2cybXcyY2h3Y2Y5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif" 
+    alt="Tech Working GIF by Pudgy Penguins" 
+    style="flex: 1; max-width: 300px; height: auto; background: rgba(0, 0, 0, 0);"
+  />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 
