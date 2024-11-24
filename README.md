@@ -4,34 +4,30 @@
   <img src="https://i.imgur.com/Mjm0SlF.png" style="width: 100%; max-width: 100%; height: auto;" alt="Full-Width Image" />
 </div>
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <p align="left" style="flex: 1; font-size: 16px; line-height: 1.5;">
-    Welcome to my GitHub profile! I'm constantly exploring new tools and frameworks to craft efficient, innovative, and user-focused applications. Feel free to explore, collaborate, or reach out — let's build something amazing together!
-  </p>
-  <img 
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2QwcWZsYWZoaDlkaWM1c3F0Y2dmc2U5eDNra2cybXcyY2h3Y2Y5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif" 
-    alt="Tech Working GIF by Pudgy Penguins" 
-    style="flex: 1; max-width: 300px; height: auto; background: rgba(0, 0, 0, 0);"
-  />
-</div>
+<br clear="both">
+
+<p align="left">Welcome to my GitHub profile! I'm constantly exploring new tools and frameworks to craft efficient, innovative, and user-focused applications. Feel free to explore, collaborate, or reach out — let's build something amazing together!</p>
 
 <h3 align="left">Connect with me:</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mltntmr/" target="_blank">
+  <a href="https://www.linkedin.com/in/mltntmr/" target="_blank" style="color: transparent;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://dev.to/timurmalyutin" target="_blank">
+  <a href="https://t.me/mltntmr" target="_blank" style="color: transparent;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://dev.to/timurmalyutin" target="_blank" style="color: transparent;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
   </a>
-  <a href="https://tryhackme.com/r/p/timur.malyutin" target="_blank">
+  <a href="https://tryhackme.com/r/p/timur.malyutin" target="_blank" style="color: transparent;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
   </a>
-  <a href="timur.malyutin@outlook.com" target="_blank">
+  <a href="timur.malyutin@outlook.com" target="_blank" style="color: transparent;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
-  <a href="https://t.me/mltntmr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="#" target="_blank" style="color: transparent;">
+    <img src="https://cdn.worldvectorlogo.com/logos/headhunter-hh-kz.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
 
