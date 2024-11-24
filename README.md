@@ -10,13 +10,7 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">Connect with me:</h3>
-
-###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mltntmr/" target="_blank">
@@ -37,9 +31,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
 <h3 align="left">Techs:</h3>
 
 ###
