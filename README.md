@@ -20,14 +20,14 @@
   <a href="https://dev.to/timurmalyutin" target="_blank" style="color: transparent;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
   </a>
+    <a href="#" target="_blank" style="color: transparent;">
+    <img src="https://cdn.worldvectorlogo.com/logos/headhunter-hh-kz.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
   <a href="https://tryhackme.com/r/p/timur.malyutin" target="_blank" style="color: transparent;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
   </a>
   <a href="timur.malyutin@outlook.com" target="_blank" style="color: transparent;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="#" target="_blank" style="color: transparent;">
-    <img src="https://cdn.worldvectorlogo.com/logos/headhunter-hh-kz.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
 
